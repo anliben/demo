@@ -1,14 +1,119 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "pedidos": [
+        {
+            "idfilial": "0101",
+            "filial": "0101",
+            "item": "000003",
+            "ped": "003813",
+            "orcamento": "111",
+            "atendimento": "ATEND",
+            "type": "PED",
+            "tipo": "Pedido",
+            "createdate": "20220320",
+            "updatedate": "20220320",
+            "createuser": "Administrador",
+            "updateuser": "Administrador",
+            "descriptionstatus": "Pedido de venda liberado",
+            "idstatus": "9",
+            "idcliente": "000001",
+            "cliente": "",
+            "cidcliente": "E",
+            "estcliente": "SP",
+            "lojacli": "01",
+            "condpag": "A VISTA",
+            "transportadora": "PADRAO",
+            "tpcliente": "F",
+            "seller": "VENDEDOR PADRAO",
+            "hratu": "21:43:51",
+            "agrupanf": "Não",
+            "origem": "5",
+            "history": [
+                {
+                    "ped": "x03813",
+                    "orcamento": "xx",
+                    "atendimento": "xx",
+                    "type": "PED",
+                    "createdate": "20220223",
+                    "updatedate": "20220223",
+                    "hratu": "21:43:51",
+                    "createuser": "Administrador",
+                    "updateuser": "Administrador",
+                    "descriptionstatus": "Pedido de venda liberado",
+                    "idstatus": "9"
+                },
+                {
+                    "ped": "x03813",
+                    "orcamento": "xx",
+                    "atendimento": "xx",
+                    "type": "PED",
+                    "createdate": "20220320",
+                    "updatedate": "20220320",
+                    "hratu": "21:42:23",
+                    "createuser": "Administrador",
+                    "updateuser": "Administrador",
+                    "descriptionstatus": "Pedido de venda em aberto",
+                    "idstatus": "5"
+                }
+            ]
+        },
+        {
+            "idfilial": "",
+            "filial": "",
+            "item": "000003",
+            "ped": "x03813",
+            "orcamento": "xx",
+            "atendimento": "xx",
+            "type": "PED",
+            "tipo": "Pedido",
+            "createdate": "20220320",
+            "updatedate": "20220320",
+            "createuser": "Administrador",
+            "updateuser": "Administrador",
+            "descriptionstatus": "Pedido de venda liberado",
+            "idstatus": "9",
+            "idcliente": "000001",
+            "cliente": "JFR TECNOLOGIA",
+            "cidcliente": "SANTO ANDRE",
+            "estcliente": "SP",
+            "lojacli": "01",
+            "condpag": "A VISTA",
+            "transportadora": "PADRAO",
+            "tpcliente": "F",
+            "seller": "VENDEDOR PADRAO",
+            "hratu": "21:43:51",
+            "agrupanf": "Não",
+            "origem": "5",
+            "history": [
+                {
+                    "ped": "x03813",
+                    "orcamento": "xx",
+                    "atendimento": "xx",
+                    "type": "PED",
+                    "createdate": "20220223",
+                    "updatedate": "20220223",
+                    "hratu": "21:43:51",
+                    "createuser": "Administrador",
+                    "updateuser": "Administrador",
+                    "descriptionstatus": "Pedido de venda liberado",
+                    "idstatus": "9"
+                },
+                {
+                    "ped": "x03813",
+                    "orcamento": "xx",
+                    "atendimento": "xx",
+                    "type": "PED",
+                    "createdate": "20220223",
+                    "updatedate": "20220223",
+                    "hratu": "21:42:23",
+                    "createuser": "Administrador",
+                    "updateuser": "Administrador",
+                    "descriptionstatus": "Pedido de venda em aberto",
+                    "idstatus": "5"
+                }
+            ]
+        }
+    ],
+    "count": 0,
+    "countTotPed": 0,
+    "countTotVol": 0
 }
