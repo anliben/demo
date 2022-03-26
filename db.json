@@ -280,5 +280,15 @@
         "label": "16 - CLIENTE PADRAO"
       }
     ]
+  },
+  ,
+  "api":{
+    "auth":{
+      "user":{
+        "token":"das8dya8sgfosdibfisdhbfisdfusd98fnsd0ofsd5f7d",
+        "email":"admin@admin.com",
+        "password":"admin"
+      }
+    }
   }
 }
