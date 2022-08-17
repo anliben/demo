@@ -1,4 +1,715 @@
 {
+    "customers":[
+        {
+            "customer": 4758,
+            "name": "PAULO REIS DOS SANTOS 95011145549",
+            "shotname": "PJ SERVICE",
+            "register": "25997894000167",
+            "city": "SAO BERNARDO DO CAMPO",
+            "state": "SP",
+            "is_active": true
+        }
+    ],
+    "reports":[
+        {
+            "id": 1,
+            "name": "ANALISE DE ENXOFRE CORROSIVO",
+            "title": "Laudo Enxofre Corrosivo",
+            "abbreviation": null
+        },
+        {
+            "id": 7,
+            "name": "ANALISE DE PONTO DE FULGOR",
+            "title": "Laudo Ponto de Fulgor",
+            "abbreviation": null
+        },
+        {
+            "id": 17,
+            "name": "ANALISE INIBIDOR (DBPC)",
+            "title": "Laudo Inibidor (DBPC)",
+            "abbreviation": null
+        },
+        {
+            "id": 42,
+            "name": "ANALISE DE ESTAB. À OXIDAÇÃO",
+            "title": "Laudo Estabilidade à Oxidação",
+            "abbreviation": null
+        },
+        {
+            "id": 9,
+            "name": "ANALISE GRAU DE POLIMERIZAÇÃO",
+            "title": "Laudo Grau de Polimerização",
+            "abbreviation": null
+        },
+        {
+            "id": 48,
+            "name": "VISCOSIDADE 100 ºC",
+            "title": "VISCOSIDADE 100 ºC",
+            "abbreviation": null
+        },
+        {
+            "id": 58,
+            "name": "FERROGRAFIA QUANT",
+            "title": "Laudo Ferrografia",
+            "abbreviation": null
+        },
+        {
+            "id": 59,
+            "name": "PONTO DE ANILINA",
+            "title": "Laudo Ponto de Anilina",
+            "abbreviation": null
+        },
+        {
+            "id": 62,
+            "name": "ANALISE DE CARACTERIZAÇÃO",
+            "title": "Laudo Caracterização de Fluido Isolante",
+            "abbreviation": null
+        },
+        {
+            "id": 16,
+            "name": "ENSAIOS DE COMPATIBILIDADE",
+            "title": "Ensaios De Compatibilidade",
+            "abbreviation": null
+        },
+        {
+            "id": 64,
+            "name": "ANALISE DE COR",
+            "title": "ANALISE DE COR",
+            "abbreviation": null
+        },
+        {
+            "id": 117,
+            "name": "FERROGRAFIA ANALITICA - SENAI",
+            "title": "Relatório Ferrografia Analítica",
+            "abbreviation": null
+        },
+        {
+            "id": 118,
+            "name": "COMP HID E TRANSM - SENAI",
+            "title": "Relatório Físico-Químico",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 119,
+            "name": "ANÁLISE FQ DIESEL - SENAI",
+            "title": "Relatório Físico-Químico Diesel",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 123,
+            "name": "LAUDO FICHA TÉCNICA",
+            "title": "Físico-Químico",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 68,
+            "name": "FERROGRAFIA ANALITICA",
+            "title": "Laudo Ferrografia Analitica",
+            "abbreviation": null
+        },
+        {
+            "id": 70,
+            "name": "ESPECTROMETRIA - DESGASTE",
+            "title": "Laudo Elementos de Desgaste",
+            "abbreviation": null
+        },
+        {
+            "id": 72,
+            "name": "ESPECTROMETRIA  ADITIVAÇÃO",
+            "title": "Laudo Elementos de Aditivação",
+            "abbreviation": null
+        },
+        {
+            "id": 71,
+            "name": "ESPECTROMETRIA - CONTAMINAÇÃO",
+            "title": "Laudo Elementos de Contaminação",
+            "abbreviation": null
+        },
+        {
+            "id": 73,
+            "name": "ANALISE DE COMPATIBILIDADE",
+            "title": "Laudo Determinação da Compatibilidade",
+            "abbreviation": null
+        },
+        {
+            "id": 78,
+            "name": "NÃO COBRAR",
+            "title": "NÃO COBRAR",
+            "abbreviation": null
+        },
+        {
+            "id": 96,
+            "name": "ANALISE DE TEOR DE ACIDEZ",
+            "title": "Laudo Índice de Neutralização",
+            "abbreviation": null
+        },
+        {
+            "id": 8,
+            "name": "ANALISE COMPOSIÇÃO CARBONICA",
+            "title": "Laudo Composição Carbonica",
+            "abbreviation": null
+        },
+        {
+            "id": 13,
+            "name": "TOLUTRIAZOL PASSIVADOR TTA/TBA",
+            "title": "Laudo Passivador TTA",
+            "abbreviation": null
+        },
+        {
+            "id": 30,
+            "name": "ANÁLISE FQ CHAVES E DISJ.",
+            "title": "Laudo Físico-Químico",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 2,
+            "name": "ANALISE DE FURFURAL 2FAL HPLC",
+            "title": "Laudo Compostos Furânicos",
+            "abbreviation": null
+        },
+        {
+            "id": 69,
+            "name": "ESPECTROMETRIA",
+            "title": "Espectrometria de 21 elementos",
+            "abbreviation": null
+        },
+        {
+            "id": 91,
+            "name": "ANÁLISE DE PARTICULAS LUBRIFIC",
+            "title": "Contagem de Partículas",
+            "abbreviation": null
+        },
+        {
+            "id": 120,
+            "name": "RELATÓRIO LUB. ALIANÇA - SENAI",
+            "title": "Relatório Físico-Químico",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 121,
+            "name": "FQ ARREFECIMENTO - SENAI",
+            "title": "Relatório Físico-Químico",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 122,
+            "name": "FQ ARLA",
+            "title": "Físico-Química",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 47,
+            "name": "VISCOSIDADE 40 º C",
+            "title": "VISCOSIDADE 40 º C",
+            "abbreviation": null
+        },
+        {
+            "id": 18,
+            "name": "ANALISE GRAVIMÉTRICA",
+            "title": "Laudo Gravimetria",
+            "abbreviation": null
+        },
+        {
+            "id": 6,
+            "name": "ANALISE DE CONT. DE PARTICULAS",
+            "title": "Contagem de Partículas",
+            "abbreviation": null
+        },
+        {
+            "id": 106,
+            "name": "FURFURALDEIDO 2FAL ASKAREL",
+            "title": "Laudo Compostos Furânicos",
+            "abbreviation": null
+        },
+        {
+            "id": 51,
+            "name": "VISCOSIDADE 20ºC",
+            "title": "VISCOSIDADE 20ºC",
+            "abbreviation": null
+        },
+        {
+            "id": 108,
+            "name": "ANÁLISE DE OXIGÊNIO",
+            "title": "Laudo Oxigênio",
+            "abbreviation": null
+        },
+        {
+            "id": 60,
+            "name": "FQ COMUTADOR",
+            "title": "FQ COMUTADOR",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 109,
+            "name": "Laudo Estabilidade à Oxidação",
+            "title": "Laudo Estabilidade à Oxidação",
+            "abbreviation": null
+        },
+        {
+            "id": 4,
+            "name": "ANALISE DE TEOR DE PCB CROM.",
+            "title": "Laudo Cromatográfico PCB",
+            "abbreviation": "PCB"
+        },
+        {
+            "id": 110,
+            "name": "POTENCIAL DE VERNIZ",
+            "title": "Relatório Potencial de Verniz",
+            "abbreviation": null
+        },
+        {
+            "id": 114,
+            "name": "FATOR DE POTÊNCIA",
+            "title": "Relatório Fator de Potência",
+            "abbreviation": null
+        },
+        {
+            "id": 124,
+            "name": "FATOR DE DISSIPAÇÃO",
+            "title": "Relatório Físico-Químico",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 24,
+            "name": "ANALISE FISICO QUIM. COMPLETA4",
+            "title": "Laudo Físico-Químico",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 76,
+            "name": "FÍSICO-QUÍMICO LUBRIFICANTE 04",
+            "title": "Laudos Físico-Químico",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 80,
+            "name": "FQ LUBRIFICANTE -COMPLETO",
+            "title": "Físico-Químico Lubrificante",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 94,
+            "name": "FÍSICO-QUÍMICO - ITB",
+            "title": "Relatório Físico-Químico",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 89,
+            "name": "FQ EM ÓLEO SILICONE",
+            "title": "Relatório Físico-Químico",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 52,
+            "name": "FQ ÓLEO VEGETAL",
+            "title": "Laudo Físico-Químico",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 112,
+            "name": "FQ LUB ENGRENAGEM C/ VERNIZ",
+            "title": "Físico-Químico de Lubrificante",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 115,
+            "name": "FQ FL ARREFECIAMENTO",
+            "title": "Físico-Químico Líquido de arrefecimento",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 5,
+            "name": "ANALISE FISICO QUIM. COMPLETA1",
+            "title": "Laudo Físico Químico",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 33,
+            "name": "ANALISE FISICO QUIM. COMPLETA2",
+            "title": "Laudo Físico Químico",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 34,
+            "name": "ANALISE FISICO QUIM. COMPLETA3",
+            "title": "Laudo Físico Químico",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 43,
+            "name": "ANALISE FISICO QUIMICA ASCAREL",
+            "title": "Laudo Físico Químico",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 44,
+            "name": "ANALISE FISICO QUIM. COMPLETA5",
+            "title": "Laudo Físico Químico",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 49,
+            "name": "ANALISE FISICO QUIM. COMPLETA6",
+            "title": "Laudo Físico Químico",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 55,
+            "name": "TEOR DE ÁGUA LUBRIFICANTE KF",
+            "title": "Laudo Físico Químico",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 50,
+            "name": "ANÁLISE FQ ÓLEO VEGETAL",
+            "title": "Laudo Físico Químico",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 95,
+            "name": "ANALISE FISICO QUÍMICA EMERG",
+            "title": "Laudo Físico Químico ",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 26,
+            "name": "ANALISE FQ RIGIDEZ DIELETRICA2",
+            "title": "Laudo FQ Rigidez Dieletrica",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 25,
+            "name": "ANALISE FQ RIGIDEZ DIELETRICA1",
+            "title": "Laudo FQ Rigidez Dieletrica",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 65,
+            "name": "FQ - COMUTADOR COMPLETO",
+            "title": "FQ - COMUTADOR COMPLETO",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 54,
+            "name": "Fisico-Químico - Lubrificante",
+            "title": "FQ ÓLEO LUBRIFICANTE 1",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 79,
+            "name": "Análise Solvente Dielétrico FQ",
+            "title": "Análise Solvente Dielétrico FQ",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 11,
+            "name": "ANALISE FQ TEOR DE AGUA",
+            "title": "Laudo FQ Teor de Água",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 10,
+            "name": "ANALISE FQ RIGIDEZ-TEOR AGUA",
+            "title": "Laudo FQ Rigidez-Teor Agua",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 28,
+            "name": "ANALISE FQ VISCOSIDADE",
+            "title": "Laudo FQ Viscosidade",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 97,
+            "name": "ANALISE FQ RIGIDEZ ITB",
+            "title": "Laudo FQ Rigidez Dieletrica",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 19,
+            "name": "ANALISE FQ DENSIDADE",
+            "title": "Laudo FQ Densidade",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 14,
+            "name": "ANALISE FQ FLUIDO SILICONE",
+            "title": "Laudo FQ Silicone",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 20,
+            "name": "ANALISE TEOR PCB CLORADOS - A",
+            "title": "Laudo Teor PCB Clorados - A",
+            "abbreviation": "PCB"
+        },
+        {
+            "id": 12,
+            "name": "ANALISE DE TEOR DE DBDS",
+            "title": "Laudo Cromatográfico DBDS",
+            "abbreviation": "CR"
+        },
+        {
+            "id": 105,
+            "name": "ANALISE CROMATOGRAFICA ASKAREL",
+            "title": "Laudo Cromatográfico",
+            "abbreviation": "CR"
+        },
+        {
+            "id": 93,
+            "name": "ANÁLISE CROMATOGRÁFICA EMERGEN",
+            "title": "Laudo Cromatográfico",
+            "abbreviation": "CR"
+        },
+        {
+            "id": 27,
+            "name": "ANALISE FQ TENSÃO INTERFACIAL",
+            "title": "Laudo Tensão Interfacial",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 41,
+            "name": "ANALISE FQ FATOR DE POT 90 ºC",
+            "title": "Laudo Fator de Potência",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 57,
+            "name": "ANÁLISE FQ ÓLEO DE MOTOR",
+            "title": "Laudo Espectroscopia",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 81,
+            "name": "SOLVENTE DIEL. - FQ COMPLETO",
+            "title": "Análise Físico-Química",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 23,
+            "name": "ANALISE FQ FATOR DE POT 25 °C",
+            "title": "Laudo Fator de Potência",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 100,
+            "name": "FQ LUB MOTOR",
+            "title": "Físico-Química de Lubrificante",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 98,
+            "name": "FQ TEOR DE ÁGUA",
+            "title": "Relatório Teor de Água",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 22,
+            "name": "ANALISE FQ FATOR DE POT 100 °C",
+            "title": "Laudo Fator de Potência",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 104,
+            "name": "FQ LUB DIESEL",
+            "title": "Físico-Química Óleo Diesel",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 21,
+            "name": "ANALISE FQ NEUTRALIZAÇÃO",
+            "title": "Laudo Neutralização (TBN)",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 107,
+            "name": "FQ LUB TURBINA COMPLETO",
+            "title": "Físico-Química de Lubrificante",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 102,
+            "name": "FQ LUB ENGRENAGEM",
+            "title": "Físico-Química de Lubrificante",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 99,
+            "name": "FQ LUB COMP HIDRÁULICOS",
+            "title": "Físico-Química de Lubrificante",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 111,
+            "name": "FQ LUB  HIDRÁULICO C/ VERNIZ",
+            "title": "Físico-Química de Lubrificante",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 113,
+            "name": "FQ LUB MOTOR C/ VERNIZ",
+            "title": "Fícico-Química de Lubrificante",
+            "abbreviation": "FQ"
+        },
+        {
+            "id": 3,
+            "name": "ANALISE CROMATOGRAFICA GASOSA",
+            "title": "Laudo Cromatográfico",
+            "abbreviation": "CR"
+        }
+    ],
+    "sample":[
+        {
+            "sample": 209390,
+            "container": 209390,
+            "customer": 4758,
+            "container_type": 1
+        },
+        {
+            "sample": 209389,
+            "container": 209389,
+            "customer": 4758,
+            "container_type": 1
+        },
+        {
+            "sample": 209382,
+            "container": 209382,
+            "customer": 4758,
+            "container_type": 2
+        },
+        {
+            "sample": 209381,
+            "container": 209381,
+            "customer": 4758,
+            "container_type": 2
+        },
+        {
+            "sample": 209392,
+            "container": 209392,
+            "customer": 4758,
+            "container_type": 1
+        },
+        {
+            "sample": 227188,
+            "container": 227188,
+            "customer": 4758,
+            "container_type": 1
+        },
+        {
+            "sample": 227187,
+            "container": 227187,
+            "customer": 4758,
+            "container_type": 1
+        },
+        {
+            "sample": 227186,
+            "container": 227186,
+            "customer": 4758,
+            "container_type": 1
+        },
+        {
+            "sample": 227185,
+            "container": 227185,
+            "customer": 4758,
+            "container_type": 1
+        },
+        {
+            "sample": 227184,
+            "container": 227184,
+            "customer": 4758,
+            "container_type": 1
+        },
+        {
+            "sample": 227183,
+            "container": 227183,
+            "customer": 4758,
+            "container_type": 1
+        },
+        {
+            "sample": 227182,
+            "container": 227182,
+            "customer": 4758,
+            "container_type": 1
+        },
+        {
+            "sample": 227181,
+            "container": 227181,
+            "customer": 4758,
+            "container_type": 1
+        },
+        {
+            "sample": 227180,
+            "container": 227180,
+            "customer": 4758,
+            "container_type": 1
+        },
+        {
+            "sample": 227179,
+            "container": 227179,
+            "customer": 4758,
+            "container_type": 1
+        },
+        {
+            "sample": 227178,
+            "container": 227178,
+            "customer": 4758,
+            "container_type": 2
+        },
+        {
+            "sample": 227177,
+            "container": 227177,
+            "customer": 4758,
+            "container_type": 2
+        },
+        {
+            "sample": 227176,
+            "container": 227176,
+            "customer": 4758,
+            "container_type": 2
+        },
+        {
+            "sample": 227175,
+            "container": 227175,
+            "customer": 4758,
+            "container_type": 2
+        },
+        {
+            "sample": 227174,
+            "container": 227174,
+            "customer": 4758,
+            "container_type": 2
+        },
+        {
+            "sample": 227173,
+            "container": 227173,
+            "customer": 4758,
+            "container_type": 2
+        },
+        {
+            "sample": 227172,
+            "container": 227172,
+            "customer": 47658,
+            "container_type": 2
+        },
+        {
+            "sample": 227171,
+            "container": 227171,
+            "customer": 47458,
+            "container_type": 2
+        },
+        {
+            "sample": 227170,
+            "container": 227170,
+            "customer": 47358,
+            "container_type": 2
+        },
+        {
+            "sample": 227169,
+            "container": 227169,
+            "customer": 47568,
+            "container_type": 2
+        }
+    ],
     "device": [
         {
             "device": 10,
