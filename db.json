@@ -1,6 +1,6 @@
 {
-  "cnpj": [
-    {
+  "cnpj": {
+    "items":[{
       "cnpj": "19131243000197",
       "emitente": "OPEN KNOWLEDGE BRASIL",
       "uf": "SP",
@@ -17,6 +17,6 @@
       "email": "desconhecido",
       "certificado": "tlsssl",
       "telefone": "(11) 1234-5678"
-    }
-  ]
+    }]
+  }
 }
