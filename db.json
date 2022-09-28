@@ -1,6 +1,7 @@
 {
   "cnpj": {
-    "items":[{
+    "items":[
+      {
       "cnpj": "19131243000197",
       "emitente": "OPEN KNOWLEDGE BRASIL",
       "uf": "SP",
@@ -17,6 +18,25 @@
       "email": "desconhecido",
       "certificado": "tlsssl",
       "telefone": "(11) 1234-5678"
-    }]
+    },
+       {
+      "cnpj": "19131243000197",
+      "emitente": "OPEN KNOWLEDGE BRASIL",
+      "uf": "SP",
+      "endereco": "jardim paulista",
+      "data": "SP",
+      "emissao_de": "SP",
+      "endereco_ate": "SP",
+      "numero": "144",
+      "fantasia": "REDE PELO CONHECIMENTO LIVRE",
+      "complemento": "SP",
+      "municipio": "Sao Paulo",
+      "cep": "1422000",
+      "bairro": "Jardim Paulista",
+      "email": "desconhecido",
+      "certificado": "tlsssl",
+      "telefone": "(11) 1234-5678"
+    }
+    ]
   }
 }
