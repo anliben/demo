@@ -1,4 +1,22 @@
 {
+  "menu": [
+    {
+        "label": "home",
+        "link": "/"
+    },
+    {
+        "label": "colaboradores",
+        "link": "/colaboradores"
+    },
+    {
+        "label": "clientes",
+        "link": "/clientes"
+    },
+    {
+        "label": "projetos",
+        "link": "/projetos"
+    },
+],
   "colaboradores": {
     "items": [
       {
