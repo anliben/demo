@@ -1,27 +1,27 @@
 {
   "menu": [
     {
-        "label": "home",
-        "link": "/"
+      "label": "home",
+      "link": "/"
     },
     {
-        "label": "colaboradores",
-        "link": "/colaboradores"
+      "label": "colaboradores",
+      "link": "/colaboradores"
     },
     {
-        "label": "clientes",
-        "link": "/clientes"
+      "label": "clientes",
+      "link": "/clientes"
     },
     {
-        "label": "projetos",
-        "link": "/projetos"
+      "label": "projetos",
+      "link": "/projetos"
     }
-],
+  ],
   "colaboradores": {
     "items": [
       {
         "id": 1,
-        "nome":"Lucas"
+        "nome": "Lucas"
       },
       {
         "id": 2,
