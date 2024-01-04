@@ -1,4 +1,17 @@
 {
+  
+  "colaboradores": {
+    "items": [
+      {
+        "id": 1,
+        "nome": "Lucas"
+      },
+      {
+        "id": 2,
+        "nome": "Davi"
+      }
+    ]
+  },
   "menu": [
     {
       "label": "home",
@@ -16,17 +29,5 @@
       "label": "projetos",
       "link": "/projetos"
     }
-  ],
-  "colaboradores": {
-    "items": [
-      {
-        "id": 1,
-        "nome": "Lucas"
-      },
-      {
-        "id": 2,
-        "nome": "Davi"
-      }
-    ]
-  }
+  ]
 }
